@@ -1,0 +1,13 @@
+{
+  "name": "qa-cucumber-project",
+  "version": "1.0.0",
+  "description": "Projeto de QA - cucumber (beginner)",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^10.0.0",
+    "@faker-js/faker": "^8.0.0",
+    "cypress": "^13.0.0"
+  }
+}
